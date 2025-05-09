@@ -1,3 +1,6 @@
+# Getting Started
 $npm create vite@latest {directory name} -- --template react
+
 $npm install
+
 $npm run dev
